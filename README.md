@@ -7,7 +7,7 @@ Install:owncloud
 その他:日本語環境設定
 
 ## Example Usage
-    docker build  -t owncloudjp:tag
+    docker build -t owncloudjp:tag
     docker run --it -p 80:80 -p 443:443 owncloudjp:tag
 
 http://ip-address  にアクセス
